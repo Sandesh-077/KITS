@@ -4,4 +4,4 @@ Kits consist of educational kits for students in Nepal to help them learn and un
 
 ## Kits Developed till now:
 1) Sex-Chromosome Determination Kit : 
-    This kit is designed for students of grade 10, as this topic is in the grade 10 science book curriculum. This is one of the most confusing chapters for students. This kit will also help to resolve some misunderstandings in Nepal's society, where people think that giving birth to a son or a daughter is totally determined by the mother.
+    This kit is designed for students of grade 10, as this topic is in the grade 10 science curriculum. This is one of the most confusing chapters for students. This kit will also help to resolve some misunderstandings in Nepal's society, where people think that giving birth to a son or a daughter is totally determined by the mother.
